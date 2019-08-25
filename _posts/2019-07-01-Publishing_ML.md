@@ -1,10 +1,6 @@
----
-layout: single
+
 title: "Publishing ML topics"
 description: "Goal is to create 100 articles on ML"
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags:
  - ML

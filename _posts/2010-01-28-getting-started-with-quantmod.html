@@ -1,0 +1,15 @@
+---
+title: Getting started with quantmod
+date: '2010-01-28T08:32:31+05:30'
+tags: []
+tumblr_url: https://sureshshanmugam.com/post/357170377/getting-started-with-quantmod
+---
+<p>I got quantmod installed on R at work and home couple of months ago. Here are the instructions for installing them from the R command line.</p>
+<pre><code>install.packages(c('xts','Defaults','quantmod'))</code></pre>
+<p>Check out the <a title="Quantmod" href="http://www.quantmod.com">Quantmod</a> homepage for further information.</p>
+<p>To quickly whip up an example to check your installation is alright, use this script:</p>
+<pre><code> # chart AAPL ticker
+library(quantmod)
+getSymbols("AAPL")
+chartSeries(AAPL)
+</code></pre>

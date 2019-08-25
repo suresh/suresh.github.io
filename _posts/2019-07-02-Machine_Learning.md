@@ -1,10 +1,6 @@
----
-layout: single # post-no-feature
+
 title: "Anamoly Detection using Machine Learning"
 description: "Identifying outliers using Isolation Forest"
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags:
  - ML

@@ -1,10 +1,7 @@
 ---
 title: "Analysis using Notebooks"
 description: 
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
-layout: single
+layout: post-no-feature
 tags:
 - notebooks
 - jupyter

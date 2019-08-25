@@ -1,0 +1,18 @@
+---
+title: Sinatra minimal service
+date: '2009-12-11T19:59:00+05:30'
+tags: []
+tumblr_url: https://sureshshanmugam.com/post/278976448/sinatra-minimal-service
+---
+<pre> <code class="ruby">
+# Sinatra example for simple webservice.
+# Sort lines in a file and return it. 
+require 'rubygems'
+require 'sinatra'
+
+post '/sorter' do
+  params[:data][:tempfile].readlines.sort
+end
+# test service with this command
+# curl -F "data=@sa.txt" 127.0.0.1:4567/sorter
+</code> </pre>

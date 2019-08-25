@@ -1,10 +1,6 @@
----
-layout: single # post-no-feature
+
 title: "Models in Pipelines"
 # description: "Pipelines for Model Building"
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags:
  - ML

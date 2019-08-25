@@ -1,10 +1,7 @@
 ---
-layout: single
+
 title: "Processing Large CSV Files in Pandas"
 description: "Reading and transforming large input files using Pandas"
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags:
  - ML

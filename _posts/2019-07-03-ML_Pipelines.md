@@ -1,10 +1,6 @@
----
-layout: single # post-no-feature
+
 title: "Scikit Pipelines for ML"
 description: "Data Preparation and Model Building"
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags:
  - ML

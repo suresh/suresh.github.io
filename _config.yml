@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **Data Science Director**."
   location         : "Bangalore, India"
-  email            :
+  email            : "suresh.shanmugam@icloud.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,13 +121,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/suresh_p"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/suresh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -199,6 +199,20 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Collections
+collections:
+  snippets:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Markdown Processing
 kramdown:
@@ -305,3 +319,15 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _snippets
+  - scope:
+      path: ""
+      type: snippets
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "snippets"

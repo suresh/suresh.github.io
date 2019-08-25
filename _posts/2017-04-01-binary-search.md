@@ -1,10 +1,6 @@
----
-layout: single
+
 title: "Binary Search Algorithm"
 description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
-toc: true
-toc_label: "In this page"
-toc_icon: "cog"
 category: articles
 tags: [sample post, readability, test]
 ---
