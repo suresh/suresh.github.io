@@ -1,8 +1,9 @@
-
+---
 title: "Probabilistic Programming"
 description: "Introduction to probabilistic programming. Using Python"
 category: articles
-tags: [sample post, readability, test]
+tags: 
+- ml
 ---
 
 ```python

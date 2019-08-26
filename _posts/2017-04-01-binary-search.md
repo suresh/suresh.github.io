@@ -1,8 +1,9 @@
-
+---
 title: "Binary Search Algorithm"
-description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
+description: "Python implementation of binary search."
 category: articles
-tags: [sample post, readability, test]
+tags: 
+- python
 ---
 Want to learn more? Check out [Data Structures and Algorithms in Python](http://amzn.to/2kjkqWQ)
 

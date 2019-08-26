@@ -1,10 +1,10 @@
-
+---
 title: "Anamoly Detection using Machine Learning"
 description: "Identifying outliers using Isolation Forest"
 category: articles
 tags:
- - ML
- - Data Science
+ - ml
+ - sklearn
 ---
 ## Anamolies in Data
 

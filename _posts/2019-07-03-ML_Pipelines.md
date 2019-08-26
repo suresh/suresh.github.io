@@ -3,8 +3,8 @@ title: "Scikit Pipelines for ML"
 description: "Data Preparation and Model Building"
 category: articles
 tags:
- - ML
- - Data Science
+ - ml
+ - sklearn
 ---
 ## What is a Pipeline?
 

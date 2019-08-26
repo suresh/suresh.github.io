@@ -4,9 +4,8 @@ title: "Processing Large CSV Files in Pandas"
 description: "Reading and transforming large input files using Pandas"
 category: articles
 tags:
- - ML
- - Data Science
- - Pandas
+ - ml
+ - pandas
 ---
 ## Large CSV files
 

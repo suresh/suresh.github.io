@@ -1,8 +1,9 @@
-
+---
 title: "Generating blog posts from Jupyter notebooks"
 description: "Github pages based jekyll blog posts from jupyter notebooks"
 category: articles
-tags: [readability]
+tags: 
+- ml
 ---
 #
 

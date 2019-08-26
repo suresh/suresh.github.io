@@ -1,10 +1,9 @@
-
+---
 title: "Publishing ML topics"
 description: "Goal is to create 100 articles on ML"
 category: articles
 tags:
- - ML
- - Data Science
+ - ml
 ---
 ## 100 Posts of Machine Learning
 

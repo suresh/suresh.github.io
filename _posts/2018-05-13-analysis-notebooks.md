@@ -3,8 +3,7 @@ title: "Analysis using Notebooks"
 description: 
 layout: post-no-feature
 tags:
-- notebooks
-- jupyter
+- ml
 category: articles
 ---
 
