@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Snippets
 layout: collection
 permalink: /snippets/
 collection: snippets
