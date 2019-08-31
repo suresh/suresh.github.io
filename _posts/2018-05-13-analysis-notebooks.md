@@ -1,7 +1,6 @@
 ---
 title: "Analysis using Notebooks"
 description: 
-layout: post-no-feature
 tags:
 - ml
 category: articles
