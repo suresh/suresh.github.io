@@ -1,6 +1,5 @@
 ---
-title: "Scikit Pipelines for ML"
-description: "Data Preparation and Model Building"
+title: "Gaussian Mixture Models"
 category: articles
 tags:
  - ml
@@ -14,7 +13,7 @@ One can think of mixture models as generalizing k-means clustering to incorporat
 
 Sklearn’s *GaussianMixture* comes with different options to constrain the covariance of different classes estimated, as shown in this picture:
 
-![covariance structures](assets/images/gmm-covariance.png)
+![covariance structures](/assets/images/gmm-covariance.png)
 
 ## Example
 See the example [Gaussian Model Selection](https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_selection.html#sphx-glr-auto-examples-mixture-plot-gmm-selection-py)
