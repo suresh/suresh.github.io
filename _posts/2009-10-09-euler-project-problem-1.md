@@ -2,7 +2,7 @@
 title: Euler Project - Problem 1
 date: '2009-10-09T12:34:00+05:30'
 tags:
-- ruby
+- misc
 tumblr_url: https://sureshshanmugam.com/post/208243701/euler-project-problem-1
 ---
 
