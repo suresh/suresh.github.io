@@ -40,7 +40,7 @@ results = pd.DataFrame({})
 for data_chunk in pd.read_csv(csv_url, chunksize=c_size):
     results = pd.concat(results, data_chunk['start station name'].value_counts)
 
-results = results.groupby(results.index).sum() 
+results = results.groupby(results.index).sum()
 ```
 
 Specifying iterator=True will also return the TextFileReader object:
