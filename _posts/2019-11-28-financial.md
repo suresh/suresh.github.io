@@ -8,6 +8,9 @@ tags:
 
 ##  Get Pandas Datareader
 
+**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
+{: .notice--info}
+
 ```python
 import pandas as pd
 import numpy as np
