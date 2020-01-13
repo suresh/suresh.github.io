@@ -1,13 +1,15 @@
 # main links
 main:
+  - title: "ML Books"
+    url: /books/
   - title: "ML Snippets"
     url: /snippets/
+  - title: "About"
+    url: /about/
   - title: "By Topics"
     url: /tags/
   - title: "Posts Archive"
     url: /year-archive/
-  - title: "About"
-    url: /about/
   - title: "Sitemap"
     url: /sitemap/
 
