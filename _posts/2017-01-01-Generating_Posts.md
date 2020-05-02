@@ -5,7 +5,8 @@ category: articles
 tags: 
 - ml
 ---
-#
+
+## Generating blog posts from Jupyter notebooks
 
 I've been looking for ways to incorporate Jupyter notebooks into this blog. This post explains a process that I've come to use in creating these blog posts.
 
