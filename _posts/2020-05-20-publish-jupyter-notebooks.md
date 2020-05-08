@@ -16,7 +16,6 @@ This method allows inclusion of styled cell input and output, including graphs. 
 
 ```sh
 $ jupyter nbconvert sample_notebook.ipynb --to markdown
-
 ```
 
 ### Add markdown to Jekyll
