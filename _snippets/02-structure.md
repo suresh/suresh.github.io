@@ -14,8 +14,6 @@ The answer is **Cookiecutter**. Read more about [Cookiecutter Data Science](http
 **Please note:** We're not talking about bikeshedding the indentation aesthetics or pedantic formatting standards — ultimately, data science code quality is about correctness and reproducibility.
 {: .notice--info}
 
-
-
 ## Why use this project structure? 
 
 When we think about data analysis, we often think just about the resulting reports, insights, or visualizations. While these end products are generally the main event, it's easy to focus on making the products look nice and ignore the quality of the code that generates them. Because these end products are created programmatically, code quality is still important! And we're not talking about bikeshedding the indentation aesthetics or pedantic formatting standards — ultimately, data science code quality is about correctness and reproducibility.
@@ -25,6 +23,8 @@ It's no secret that good analyses are often the result of very scattershot and s
 That being said, once started it is not a process that lends itself to thinking carefully about the structure of your code or project layout, so it's best to start with a clean, logical structure and stick to it throughout. We think it's a pretty big win all around to use a fairly standardized setup like this one.
 
 ## Project Directory Strucuture
+
+Here is the directory structure that keeps data & code separately.
 
 ```nohighlight
 ├── LICENSE
