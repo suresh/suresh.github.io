@@ -204,10 +204,7 @@ collections:
   snippets:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
+  books:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -331,3 +328,15 @@ defaults:
       comments: false
       sidebar:
         nav: "snippets"
+    # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: true
+      comments: false
+      sidebar:
+        nav: "books"

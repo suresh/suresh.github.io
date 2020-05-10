@@ -1,17 +1,15 @@
 # main links
 main:
-  - title: "ML Books"
+  - title: "Products"
     url: /books/
-  - title: "ML Snippets"
+  - title: "ML Notes"
     url: /snippets/
-  - title: "About"
-    url: /about/
   - title: "By Topics"
     url: /tags/
-  - title: "Posts Archive"
-    url: /year-archive/
   - title: "Sitemap"
     url: /sitemap/
+  - title: "About"
+    url: /about/
 
 
 # sidebar navigation list sample
@@ -38,3 +36,11 @@ snippets:
         url: /child-page-b4/
       - title: "Child Page B5"
         url: /child-page-b5/
+
+
+# sidebar navigation list sample
+books:
+  - title: "Model Development in AWS"
+    children:
+      - title: "Sagemaker Data Prep"
+        url: /books/sagemaker-dataprep/

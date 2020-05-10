@@ -1,5 +1,5 @@
 ---
-title: Snippets
+title: ML Notes
 layout: collection
 permalink: /snippets/
 collection: snippets
