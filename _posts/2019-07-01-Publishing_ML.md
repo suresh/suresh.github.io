@@ -11,6 +11,6 @@ Here is my attempt at creating content that I would like to comeback over the co
 
 ## My tools
 
-I use a AWS t2 micro machine to create everything about these posts. I use an iPad as primrary device for creating these ML posts.
+I use a AWS EC2 instance to create everything about these posts. I use an iPad as primrary device for creating these ML posts.
 
 Update on the tools front, I have now moved fully to AWS Sagemaker notebook instances and reducing the need for EC2 instance and associated setup. This is very liberating.

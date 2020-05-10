@@ -1,10 +1,8 @@
 ---
 title: "Scikit Pipelines for ML"
-description: "Data Preparation and Model Building"
-category: articles
-tags:
- - ml
- - sklearn
+permalink: /snippets/ml-pipelines/
+excerpt: "Data Preparation and Model Building"
+last_modified_at: 2020-05-05
 ---
 ## What is a Pipeline
 
