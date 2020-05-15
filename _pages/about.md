@@ -11,6 +11,8 @@ tags:
 published: true
 ---
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sureshshanmugam0"><a class="LI-simple-link" href='https://in.linkedin.com/in/sureshshanmugam0?trk=profile-badge'>Suresh Shanmugam</a></div>
+
 ### Skills
 
 Preferred machine learning (scikit, xgboost), data visualization (D3.js), big data (Spark), deep learning (Theano, Keras, TensorFlow).
