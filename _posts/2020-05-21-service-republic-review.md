@@ -22,6 +22,8 @@ This book has interesting analytical clarity - especially when looking at topics
 
 ## Here is the link to book on Amazon
 
-<a target="_blank"  href="https://www.amazon.in/gp/product/0670093327/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0670093327&linkCode=as2&tag=propellabs-21&linkId=260618346fbd8d0e4d6d2b8d26d64851"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0670093327&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=propellabs-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=propellabs-21&l=am2&o=31&a=0670093327" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.in/gp/product/0670093327/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0670093327&linkCode=as2&tag=propellabs-21&linkId=b2ce662dce1d4e921770813faef3193a"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0670093327&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=propellabs-21" >Book</a>
+
+<img src="//ir-in.amazon-adsystem.com/e/ir?t=propellabs-21&l=am2&o=31&a=0670093327" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 *this is an affiliate link and would lead me to earn commissions.*
