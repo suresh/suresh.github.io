@@ -6,12 +6,12 @@ last_modified_at: 2020-05-05
 ---
 ## What is a Pipeline
 
-Transformers are usually combined with classifiers, regressors or other estimators to build a composite estimator. The most common tool is a Pipeline. *Pipeline* can be used to chain multiple estimators into one. This is useful as there is often a fixed sequence of steps in processing the data, for example feature selection, normalization and classification.
+Transformers are combined with classifiers, regressors or other estimators to build a composite estimator. The most common tool is a Pipeline. *Pipeline* can be used to chain multiple estimators into one. This is useful as there is a fixed sequence of steps in processing the data, for example feature selection, normalization and classification.
 
 Pipeline offers these benefits:
 
-* Convenience and encapsulation - You only have to call fit and predict once on your data to fit a whole sequence of estimators
-* Joint parameter selection - Yuo can grid search over parameters of all estimators in the pipeline at once
+* Convenience and encapsulation - You have to call fit and predict once on your data to fit a whole sequence of estimators
+* Joint parameter selection - You can grid search over parameters of all estimators in the pipeline at once
 * Safety - Pipelines help avoid leaking stats between test data into the trained model in cross-validation, by ensuring that the same samples are used to train the transformers and predictors
 
 All estimators in a pipeline, except the last one, must be transformers (i.e must have a transform method). The last estimator may be any type (transformer, classifier, etc).
@@ -29,7 +29,7 @@ pipe = Pipeline(estimators)
 pipe
 ```
 
-Parameters of the estimators in the pipeline can be accessed using the *<estimator>__<parameter>* syntax:
+Parameters of the estimators can be accessed using the *<estimator>__<parameter>* syntax:
 
 ```python
 pipe.set_params(clf__C=10)
@@ -41,7 +41,7 @@ pipe.set_params(clf__C=10)
 
 ## Model Selection using Grid Search
 
-Pipeline and parameter setting is particularly important for doing grid searches:
+Pipeline are a great way for finding optimal parameters through grid searches:
 
 ```python
 from sklearn.model_selection import GridSearchCV
@@ -50,7 +50,7 @@ param_grid = dict(reduce_dim__n_components=[2, 5, 10],
 grid_search = GridSearchCV(pipe, param_grid=param_grid)
 ```
 
-Individual steps may also be replaced as parameters, and non-final steps may be ignored by setting them to *'passthrough'*:
+Individual steps may be replaced as parameters, and non-final steps may be ignored by setting them to *'passthrough'*:
 
 ```python
 from sklearn.linear_model import LogisticRegression
