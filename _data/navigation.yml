@@ -14,28 +14,28 @@ main:
 
 # sidebar navigation list sample
 snippets:
-  - title: "AWS"
-    children:
-      - title: "Sagemaker Data Prep"
-        url: /snippets/sagemaker-dataprep/
-      - title: "Sagemaker Save Data"
-        url: /snippets/sagemaker-save-s3/
-      - title: "Child Page A3"
-        url: /child-page-a3/
-      - title: "Child Page A4"
-        url: /child-page-a4/
-  - title: "Machine Learning"
-    children:
-      - title: "Getting Started"
-        url: /snippets/quick-start-guide/
-      - title: "Structure of ML Projects"
-        url: /snippets/structure/
-      - title: "Child Page B3"
-        url: /child-page-b3/
-      - title: "Child Page B4"
-        url: /child-page-b4/
-      - title: "Child Page B5"
-        url: /child-page-b5/
+#  - title: "AWS"
+#    children:
+#      - title: "Sagemaker Data Prep"
+#        url: /snippets/sagemaker-dataprep/
+#      - title: "Sagemaker Save Data"
+#        url: /snippets/sagemaker-save-s3/
+#      - title: "Child Page A3"
+#        url: /child-page-a3/
+#      - title: "Child Page A4"
+#        url: /child-page-a4/
+#  - title: "Machine Learning"
+#    children:
+#      - title: "Getting Started"
+#        url: /snippets/quick-start-guide/
+#      - title: "Structure of ML Projects"
+#        url: /snippets/structure/
+#      - title: "Child Page B3"
+#        url: /child-page-b3/
+#      - title: "Child Page B4"
+#        url: /child-page-b4/
+#      - title: "Child Page B5"
+#        url: /child-page-b5/
 
 
 # sidebar navigation list sample
