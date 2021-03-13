@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_books`.
+Here are some of my books and essays that help with topics in data science and machine learning.
