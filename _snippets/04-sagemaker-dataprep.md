@@ -3,6 +3,9 @@ title: "Sagemaker Data Prep"
 permalink: /snippets/sagemaker-dataprep/
 excerpt: "How to prepare data and save it to S3."
 last_modified_at: 2018-08-20T15:19:22-04:00
+tags:
+ - aws
+ - ml
 ---
 Let's explore the Bank dataset from UCI. First, to download and explore the dataset, run the following code in your notebook:
 

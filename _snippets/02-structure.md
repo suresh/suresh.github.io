@@ -3,6 +3,9 @@ title: "Structure for ML use cases"
 permalink: /snippets/structure/
 excerpt: "How to organize a ML project and what all of the files are for."
 last_modified_at: 2018-03-20T15:19:22-04:00
+tags:
+ - projects
+ - ml
 ---
 
 I have always wondered why every ML project devolves into a mess of notebooks and CSV files strewn around. There is a way out of this mess. Nothing clever here :wink:. 

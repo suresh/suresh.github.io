@@ -3,6 +3,9 @@ title: "Scikit Pipelines for ML"
 permalink: /snippets/ml-pipelines/
 excerpt: "Data Preparation and Model Building"
 last_modified_at: 2020-05-05
+tags:
+ - sklearn
+ - ml
 ---
 ## What is a Pipeline
 

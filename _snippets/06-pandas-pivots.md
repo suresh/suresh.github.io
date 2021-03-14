@@ -3,6 +3,9 @@ title: "Pivot Tables in Pandas, Python"
 permalink: /snippets/pandas-pivot/
 excerpt: "Making wide table into long table & vice versa"
 last_modified_at: 2020-05-05
+tags:
+ - pandas
+ - ml
 ---
 ## Pivot tables
 

@@ -280,6 +280,11 @@
   }
 }
 
+.page__taxonomy-tags {
+  margin: 0px;
+  padding: 0px;
+}
+
 .page__taxonomy-item {
   display: inline-block;
   margin-right: 5px;
@@ -288,7 +293,7 @@
   text-decoration: none;
   border: 1px solid mix(#000, $border-color, 25%);
   border-radius: $border-radius;
-
+  font-size: xx-small;
   &:hover {
     text-decoration: none;
     color: $link-color-hover;

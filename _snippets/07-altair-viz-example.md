@@ -4,7 +4,7 @@ permalink: /snippets/altair-viz-sample/
 excerpt: "Altair Visualization"
 last_modified_at: 2020-05-05
 tags:
- - sklearn
+ - altair
  - ml
 ---
 
