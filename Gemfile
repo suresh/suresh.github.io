@@ -3,5 +3,6 @@ gemspec
 
 group :jekyll_plugins do
     gem "kramdown-parser-gfm"
-    gem "kramdown-syntax-coderay"
+    # gem "kramdown-syntax-coderay"
+    gem "rouge"
 end
