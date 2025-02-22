@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Suresh Shanmugam"
   avatar           : "/assets/images/W8nuYv70_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **PM for AI & Data products**."
+  bio              : "I am a data scientist helping businesses improve operations using data and models. I specialize in machine learning, NLP, and analytics."
   location         : "Bangalore, India"
   email            : "suresh.shanmugam@icloud.com"
   links:
