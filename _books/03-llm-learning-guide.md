@@ -19,7 +19,7 @@ Here is a step-by-step plan to learn about Large Language Models (LLMs) and thei
 
 This roadmap is structured into five phases, starting with foundational knowledge and progressing to advanced applications and continuous learning.
 
-**Phase 1: Foundations - Revisiting and Expanding Core Concepts**
+## **Phase 1: Foundations - Revisiting and Expanding Core Concepts**
 
 This phase focuses on solidifying your existing data science knowledge and expanding it to include essential concepts for understanding LLMs.
 
@@ -58,7 +58,7 @@ This phase focuses on solidifying your existing data science knowledge and expan
           * **Blog Post:** "The Illustrated Transformer" by Jay Alammar ([http://jalammar.github.io/illustrated-transformer/](https://www.google.com/url?sa=E&source=gmail&q=http://jalammar.github.io/illustrated-transformer/)) - Excellent visual explanation of the Transformer.
           * **Video:** "Transformers explained visually" by StatQuest with Josh Starmer (Search on YouTube for "StatQuest Transformers") - Clear and intuitive video explanation.
 
-**Phase 2: Diving into Large Language Models**
+## **Phase 2: Diving into Large Language Models**
 
 This phase focuses on understanding the architecture, training, and key characteristics of LLMs.
 
@@ -85,7 +85,7 @@ This phase focuses on understanding the architecture, training, and key characte
           * **Blog Post:** "Pre-training and Fine-tuning Language Models" by Sebastian Ruder ([http://ruder.io/nlp-in-2017-part-2/](https://www.google.com/search?q=http://ruder.io/nlp-in-2017-part-2/)) - Provides a good overview of pre-training and fine-tuning concepts.
           * **Tutorials:** Hugging Face Transformers documentation and tutorials on fine-tuning pre-trained models for various tasks ([https://huggingface.co/transformers/v4.35.2/training.html](https://www.google.com/search?q=https://huggingface.co/transformers/v4.35.2/training.html)).
 
-**Phase 3: Real-World Applications of LLMs**
+## **Phase 3: Real-World Applications of LLMs**
 
 This phase shifts focus to practical applications of LLMs across different domains.
 
@@ -118,7 +118,7 @@ This phase shifts focus to practical applications of LLMs across different domai
           * **TensorFlow/PyTorch:** Deep learning frameworks for building and training models.
           * **Google Colab/Kaggle Kernels:** Cloud-based environments for running experiments and accessing GPUs/TPUs.
 
-**Phase 4: Advanced Topics and Specialization**
+## **Phase 4: Advanced Topics and Specialization**
 
 This phase delves into more complex aspects of LLMs and allows for specialization based on your interests.
 
@@ -148,7 +148,7 @@ This phase delves into more complex aspects of LLMs and allows for specializatio
           * **Community Engagement:** Join online communities, forums, and attend workshops related to your chosen specialization.
           * **Networking:** Connect with researchers and practitioners working in your area of interest.
 
-**Phase 5: Continuous Learning and Staying Updated**
+## **Phase 5: Continuous Learning and Staying Updated**
 
 The field of LLMs is rapidly evolving. Continuous learning is crucial.
 
@@ -161,12 +161,12 @@ The field of LLMs is rapidly evolving. Continuous learning is crucial.
           * **Online Communities:** Participate in online forums, communities (e.g., Reddit's r/MachineLearning, Hugging Face Forums), and social media groups to discuss and learn from others.
           * **Open-source projects:** Follow open-source LLM projects on platforms like GitHub to understand practical implementations and contribute to the community.
 
-**Key Takeaways for Your Learning Journey:**
+## **Key Takeaways for Your Learning Journey:**
 
-  * **Hands-on Practice is Essential:**  Theory is important, but practical application through projects and experimentation is crucial for truly understanding LLMs.
-  * **Start Simple and Gradually Increase Complexity:** Begin with foundational concepts and gradually move towards more advanced topics.
-  * **Focus on Understanding, Not Just Tools:** While tools like Hugging Face Transformers are powerful, prioritize understanding the underlying concepts and architectures.
-  * **Be Patient and Persistent:** Learning LLMs is a journey. The field is constantly evolving, so continuous learning and adaptation are key.
-  * **Network and Engage with the Community:**  Connect with other learners, researchers, and practitioners to share knowledge and stay motivated.
+* **Hands-on Practice is Essential:**  Theory is important, but practical application through projects and experimentation is crucial for truly understanding LLMs.
+* **Start Simple and Gradually Increase Complexity:** Begin with foundational concepts and gradually move towards more advanced topics.
+* **Focus on Understanding, Not Just Tools:** While tools like Hugging Face Transformers are powerful, prioritize understanding the underlying concepts and architectures.
+* **Be Patient and Persistent:** Learning LLMs is a journey. The field is constantly evolving, so continuous learning and adaptation are key.
+* **Network and Engage with the Community:**  Connect with other learners, researchers, and practitioners to share knowledge and stay motivated.
 
 By following this roadmap and dedicating consistent effort, you will gain a strong understanding of Large Language Models and their applications, positioning you well to contribute to this exciting and rapidly advancing field. Good luck with your learning journey\!
