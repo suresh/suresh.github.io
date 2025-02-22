@@ -17,7 +17,7 @@ Here are some of the key insights from the chart and summary statistics:
 | 15 Year | 9.47  | 9.44   | 7.47  | 12.13 | 1.34    |
 | 5 Year  | 10.74 | 11.72  | -3.20 | 21.06 | 4.19    |
 
-![NIFTY Index Performance](visualization.png)
+![NIFTY Index Performance](/assets/images/visualization.png)
 
 
 ## Conclusion
