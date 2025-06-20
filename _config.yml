@@ -20,7 +20,7 @@ title                    : "On Intelligence"
 title_separator          : "-"
 subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Suresh Shanmugam"
-description              : " I am a Product Manager building AI software. I help improve operations of businesses using data and models. I have work experience in Financial Services & Technology companies."
+description              : " I am a Engineering Manager building AI software. I help improve operations of businesses using data and models. I have worked with Financial Services & Technology companies."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : suresh/minimal-mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Suresh Shanmugam"
-  avatar           : "/assets/images/W8nuYv70_400x400.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Profile_avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a data scientist helping businesses improve operations using data and models. I specialize in machine learning, NLP, and analytics."
   location         : "Bangalore, India"
   email            : "suresh.shanmugam@icloud.com"
