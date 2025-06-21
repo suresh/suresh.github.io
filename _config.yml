@@ -347,8 +347,8 @@ defaults:
     values:
       layout: single
       read_time: false
-      author_profile: false
+      author_profile: true
       share: true
-      comments: false
+      comments: true
       sidebar:
-        nav: "books"
+        nav: "longform"
